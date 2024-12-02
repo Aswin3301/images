@@ -1,0 +1,5 @@
+<svg width="1000" height="500" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="lightblue" />
+  <circle cx="500" cy="250" r="200" fill="green" />
+  <text x="500" y="250" font-size="40" text-anchor="middle" fill="white" dy=".3em">SVG Image</text>
+</svg>
